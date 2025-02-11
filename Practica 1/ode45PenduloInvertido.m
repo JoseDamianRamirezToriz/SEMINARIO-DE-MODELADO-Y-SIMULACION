@@ -1,5 +1,5 @@
 %---Condiciones iniciales---%
-z0 = [0, 0, 1, 0]; % [xc(0), dxc(0), alpha(0), dalpha(0)]
+z0 = [0, 0, deg2rad(1), 0]; % [xc(0), dxc(0), alpha(0), dalpha(0)]
 
 %---Tiempo de simulación---%
 tspan = [0,  10]; % De 0 a 10 segundos
